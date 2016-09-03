@@ -1,4 +1,4 @@
 main()
 {
-	printf("hello,project\n");
+	printf("hello,world\n");
 }
